@@ -19,3 +19,10 @@ A leaf disease recognition system that uses image processing and machine learnin
 - Framework: **PyTorch**
 - Training: Transfer Learning
 - Output: Multi-class classification
+Contributions are welcome!
+
+Fork the repo
+Create a new branch
+Make changes
+Submit a Pull Request
+If you like this project, please ⭐ the repository
